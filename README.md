@@ -22,7 +22,7 @@ This repository contains data files and Jupyter Notebook solution keys for explo
 Ensure you have Python 3.8+ installed along with Jupyter Notebook or JupyterLab:
 
 ```bash
-pip install jupyter pandas numpy matplotlib seaborn
+pip install jupyter pandas matplotlib
 
 
 ### Setup
